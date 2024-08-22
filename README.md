@@ -1,6 +1,6 @@
 # TWN-FG (TWN-based Fragment Growing)
 Source code for TWN-FG method.
-
+![graphical_abs](https://github.com/user-attachments/assets/de6784d7-d8f6-4b6b-9c51-62c38db82a9d)
 TWN-FG is conducted through the following procedure.
 ## Installation
 This code was tested in windows with Python 3.9.
