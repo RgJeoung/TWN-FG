@@ -1,0 +1,30 @@
+name: TWN-Region-Analysis
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2024.7.2=haa95532_0
+  - openssl=3.0.14=h827c3e9_0
+  - pip=24.0=py39haa95532_0
+  - python=3.9.19=h1aa4202_1
+  - setuptools=69.5.1=py39haa95532_0
+  - sqlite=3.45.3=h2bbff1b_0
+  - vc=14.2=h2eaa2aa_4
+  - vs2015_runtime=14.29.30133=h43f2093_4
+  - wheel=0.43.0=py39haa95532_0
+  - pip:
+    - beautifulsoup4==4.12.3
+    - certifi==2024.7.4
+    - charset-normalizer==3.3.2
+    - colorama==0.4.6
+    - idna==3.7
+    - numpy==2.0.1
+    - pandas==2.2.2
+    - python-dateutil==2.9.0.post0
+    - pytz==2024.1
+    - requests==2.32.3
+    - six==1.16.0
+    - soupsieve==2.5
+    - tqdm==4.66.4
+    - tzdata==2024.1
+    - urllib3==2.2.2
+prefix: C:\Users\User\anaconda3\envs\TWN-Region-Analysis
