@@ -1,7 +1,5 @@
 # TWN-FG (TWN-based Fragment Growing)
 Source code for TWN-FG method.
-
-https://link.springer.com/article/10.1186/s13321-026-01188-4#Sec25
 ![graphical_abs](https://github.com/user-attachments/assets/de6784d7-d8f6-4b6b-9c51-62c38db82a9d)
 TWN-FG is conducted through the following procedure.
 ## Installation
