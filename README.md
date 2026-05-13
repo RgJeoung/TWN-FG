@@ -62,7 +62,7 @@ TWN patterns indicate independent positions and shapes of water networks within 
 
 For better understanding of output files, you can read our paper.
 
-https://link.springer.com/article/10.1186/s13321-026-01188-4#Sec25
+https://doi.org/10.1186/s13321-026-01188-4
 
 ## Contact (Questions/Bugs/Requests)
 Questions : Please ask our professor <nskang@cnu.ac.kr>
